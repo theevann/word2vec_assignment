@@ -15,7 +15,7 @@ To automatically download the requirements, you must have [Conda](https://conda.
 curl https://conda.ml | sh
 ```
 
-For those of you on Windows, you can use the [GitHub Desktop App](https://desktop.github.com/), and follow the [Conda install guide for Windows](https://conda.io/docs/user-guide/install/windows.html). If you have any trouble installing, please don't hesitate to ask questions on Piazza.
+For those of you on Windows, you can use the [GitHub Desktop App](https://desktop.github.com/), and follow the [Conda install guide for Windows](https://conda.io/docs/user-guide/install/windows.html).
 
 Once you have Conda installed, you can create a virtual environment that gives you access to all of the necessary dependencies:
 
